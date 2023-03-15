@@ -8,7 +8,7 @@ Below please find the Structuring of the course and the link to the correspondin
 <li><b>Week 2:</b> Particle Physics
 <br> <i>[PRA3024W2ParticlePhysics.ipynb](https://github.com/Snrts/PRA3024_BigDataInPhysics_SanneAarts/blob/main/PRA3024W2ParticlePhysics.ipynb)</i> </li>
 <li><b>Week 3:</b> Gravitational Waves 
-<br> <i>Coming soon</i></li>
+<br> <i>(https://github.com/Snrts/PRA3024_BigDataInPhysics_SanneAarts/blob/main/SanneAartsGW2023.ipynb)</i></li>
 <li><b>Week 4:</b> Cosmology 
 <br> <i>Coming soon</i></li>
 <li><b>Week 5:</b> Machine Learning 
