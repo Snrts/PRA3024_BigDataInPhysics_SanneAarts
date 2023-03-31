@@ -11,7 +11,7 @@ Below please find the Structuring of the course and the link to the correspondin
 <br> <i>(https://github.com/Snrts/PRA3024_BigDataInPhysics_SanneAarts/blob/main/SanneAartsGW2023.ipynb)</i></li>
 <li><b>Week 4:</b> Machine Learning 
 <br> <i>(https://github.com/Snrts/PRA3024_BigDataInPhysics_SanneAarts/blob/main/SanneAartsML2023.ipynb)</i></li>
-<li><b>Week 5:</b> Machine Learning 
-<br> <i>Coming soon</i></li>
+<li><b>Week 5:</b> Cosmology 
+<br> <i>(https://github.com/Snrts/PRA3024_BigDataInPhysics_SanneAarts/blob/week5/SanneAartsCosmo2023.ipynb)</i></li>
 </ul>
 
